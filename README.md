@@ -7,8 +7,8 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 1 | Intentionally left blank | Intentionally left blank. |
 | 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
 | 3 | [Megaline Plans](https://github.com/mbussone/Data_projects_TripleTen/tree/main/Sprint03) | This project aims to analyze customer behavior and determine which of Megaline's two prepaid plans — Surf or Ultimate — generates more revenue. |
-| 4 | Machine Learning Customer Interaction Strategies(https://github.com/mbussone/Data_projects_TripleTen/tree/main/Sprint04) | . |
-| 5 | [](https://github.com/mbussone/Data_projects_TripleTen/tree/main/Sprint05) | . |
+| 4 | [Machine Learning Customer Interaction Strategies](https://github.com/mbussone/Data_projects_TripleTen/tree/main/Sprint04) | . |
+| 5 | [Sprint 05](https://github.com/mbussone/Data_projects_TripleTen/tree/main/Sprint05) | . |
 | 6 | [Zuber Ride Sharing Analysis](https://github.com/mbussone/Data_projects_TripleTen/tree/main/Sprint06) | This project analyzes ride-sharing data for Chicago with the aim of uncovering passenger behavior, company performance, and the influence of external factors like weather on ride frequency and duration. |
 | 7 | [Megaline Subscriber Plan Model](https://github.com/mbussone/Data_projects_TripleTen/tree/main/Sprint07) | To improve customer experience and promote better usage options, the company seeks to develop a classification model that can analyze subscriber behavior and recommend one of its two new plans: Smart or Ultra. |
 | 8 | [Beta Bank Customer Churn](https://github.com/mbussone/Data_projects_TripleTen/tree/main/Sprint08) | Using historical data on customer behavior and churn, the goal is to develop a supervised learning model that predicts whether a customer will terminate their contract. |
